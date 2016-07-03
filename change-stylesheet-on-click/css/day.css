@@ -1,0 +1,16 @@
+body {
+  background-color: powderblue;
+
+}
+.container {
+  background-color: gold;
+  display: flex;
+  width: 90%;
+  margin: 6.5em auto;
+  flex-direction: row;
+  justify-content: center;
+}
+button {
+  margin: 3em;
+  font: 1em sans-serif;
+}

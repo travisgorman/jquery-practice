@@ -1,0 +1,16 @@
+body {
+  background-color: #333;
+
+}
+.container {
+  background-color: #222;
+  display: flex;
+  width: 90%;
+  margin: 6.5em auto;
+  flex-direction: row;
+  justify-content: center;
+}
+button {
+  margin: 3em;
+  font: 1em sans-serif;
+}
